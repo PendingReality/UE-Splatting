@@ -1,0 +1,11 @@
+UESplatting's renderer is derived from TimChen1383/NanoGaussianSplatting:
+https://github.com/TimChen1383/NanoGaussianSplatting
+
+The upstream project and this derivative are distributed under the MIT License.
+UESplatting adds UE 5.8 support, format-agnostic ingestion, runtime loading, and
+optional known-pose scene-capture dataset tooling.
+
+UESplatting derivative contributions are Copyright (c) 2026 PendingReality.
+
+Derivative contributions remain copyright their respective contributors and are
+made available under the same MIT License.

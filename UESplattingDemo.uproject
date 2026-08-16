@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.8",
+	"Category": "Samples",
+	"Description": "Minimal host and sample project for UESplatting.",
+	"Modules": [
+		{
+			"Name": "UESplattingDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "UESplatting",
+			"Enabled": true
+		},
+		{
+			"Name": "UESplattingCapture",
+			"Enabled": true
+		},
+		{
+			"Name": "AndroidFileServer",
+			"Enabled": false
+		}
+	]
+}

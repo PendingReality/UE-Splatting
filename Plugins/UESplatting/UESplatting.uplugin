@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"FriendlyName": "UESplatting",
+	"Description": "Gaussian splat import, rendering, and runtime loading for Unreal Engine 5.8.",
+	"Category": "Rendering",
+	"CreatedBy": "PendingReality",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.8.0",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UESplatting",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit"
+		},
+		{
+			"Name": "UESplattingEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

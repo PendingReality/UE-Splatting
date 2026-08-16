@@ -1,0 +1,40 @@
+# Unreal Engine generated output
+**/Binaries/
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+**/.vs/
+**/.idea/
+**/.vscode/
+*.sln
+*.slnx
+*.code-workspace
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+*.uproject.bak*
+*.uplugin.bak*
+/Config/DefaultInput.ini
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local development references and orchestration state
+/.bunshin/
+/.ap/
+/samples/ItalyRuinsHi.sog
+/uesplatting*_build.log
+/nanogs*_build.log
+/AGENTS.md
+/CLAUDE.md
+/GEMINI.md
+
+# Local release output
+/dist/
+/build/
+/Build/

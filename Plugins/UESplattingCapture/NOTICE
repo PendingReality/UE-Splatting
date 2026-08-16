@@ -1,0 +1,10 @@
+UESplatting Capture is part of the UESplatting project and is distributed
+under the MIT License.
+
+UESplatting derivative contributions are Copyright (c) 2026 PendingReality.
+
+UESplatting's renderer is derived from TimChen1383/NanoGaussianSplatting:
+https://github.com/TimChen1383/NanoGaussianSplatting
+
+See the UESplatting core plugin and repository notices for full upstream and
+format-interoperability attribution.
